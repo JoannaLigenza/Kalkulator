@@ -1,0 +1,51 @@
+
+#main3
+{
+	width: 460px;
+	margin: 0 auto;
+}
+
+#kalkulator3
+{
+	width: 450px;
+	height: auto;
+	border: 1px solid black;
+}
+
+#result, #result2
+{
+	width: 425px;
+	height: 50px;
+	text-align: right;
+	padding-right: 20px;
+}
+
+#przyciski, #przyciski2
+{
+	display: inline-block;
+}
+
+
+#przyciski
+{
+	width: 330px;
+} 
+
+#przyciski2
+{
+	width: 110px;
+	vertical-align:top;
+}
+
+.button
+{
+	width: 100px;
+	height: 100px;
+	margin: 5px 3px;
+	border: 1px solid blue;
+}
+
+#equal
+{
+	height: 430px;
+}
